@@ -1,0 +1,20 @@
+.first{
+  box-shadow: 80px;
+  border-radius: 60px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  width: 400px;
+  height: 500px;
+  margin-top: 150px;
+}
+.button{
+  align-items: center;
+  background-color: darkcyan;
+}
+.zero{
+  display: flex;
+  justify-content: center;
+ align-items: center;
+}
